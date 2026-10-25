@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">녹음기</string>
+    <string name="tile_label">녹음</string>
+    <string name="rec_channel_name">녹음</string>
+    <string name="rec_notif_title">녹음 중</string>
+</resources>
